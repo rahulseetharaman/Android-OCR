@@ -1,0 +1,2 @@
+# Android-OCR
+OCR Reader  
